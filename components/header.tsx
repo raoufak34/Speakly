@@ -103,7 +103,7 @@ return (
       <SheetContent side="right" className="w-[280px] sm:w-[320px] flex flex-col py-8">
       <SheetHeader>
   <SheetTitle className="sr-only">Navigation</SheetTitle>
-  <SheetDescription>aaaaa</SheetDescription>
+  <SheetDescription></SheetDescription>
 </SheetHeader>
         <Link
           href="/"
