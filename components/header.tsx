@@ -157,7 +157,7 @@ return (
           </Link>
           <Link
         href="/profile"
-        className="text-sm font-medium text-gray-600 hover:text-primary transition-colors dark:text-gray-400 dark:hover:text-primary"
+        className="py-3 px-4 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg transition-colors"
       >
         Profile
       </Link>
