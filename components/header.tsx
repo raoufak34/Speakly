@@ -155,6 +155,12 @@ return (
           >
             Contact Us
           </Link>
+          <Link
+        href="/profile"
+        className="text-sm font-medium text-gray-600 hover:text-primary transition-colors dark:text-gray-400 dark:hover:text-primary"
+      >
+        Profile
+      </Link>
           <div className="pt-4 border-t border-gray-200 dark:border-gray-700 mt-4">
             <Link href="/signin" className="block mb-4">
               <Button variant="ghost" className="w-full justify-start text-lg py-3 px-4">
