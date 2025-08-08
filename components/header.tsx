@@ -59,6 +59,12 @@ return (
       >
         Contact Us
       </Link>
+      <Link
+        href="/profile"
+        className="text-sm font-medium text-gray-600 hover:text-primary transition-colors dark:text-gray-400 dark:hover:text-primary"
+      >
+        Profile
+      </Link>
       <Link href="/signin">
         <Button
           variant="ghost"
